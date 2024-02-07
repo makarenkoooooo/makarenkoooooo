@@ -24,4 +24,4 @@ I am a front-end developer with a deep interest in creating user-friendly web ap
 
 <a href="http://www.github.com/makarenkoooooo"><img src="https://github-readme-stats.vercel.app/api?username=makarenkoooooo&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="makarenkoooooo's GitHub stats" /></a>
 <p><b>My codewars Stats</b></p>
-<img src="https://www.codewars.com/users/makaronka/badges/large">
+<img src="https://www.codewars.com/users/Makarenkoooooo/badges/large">
